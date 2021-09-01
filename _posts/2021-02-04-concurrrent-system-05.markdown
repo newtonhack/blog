@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Concurrent Systems: 04 "
+title: "Concurrent Systems: 05 "
 date: 2021-02-04 13:01:20 +0300
 description: Transactions # Add post description (optional)
 img:  software.jpg # Add image post (optional)(optional)
