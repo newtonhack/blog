@@ -32,11 +32,11 @@ All the models which exists till date sort of tries to eliminate one of (shared/
 
 ### Types of Concurrency Models
 - Threads & Locks
-- Atomics, Thread-locals & Timeouts
+- Atomics Condition Variables & Timeouts (beyond locks)
+- Functional Programming
 - Actors
 - Communicating Sequential Process
 - Software Transaction Memory
-- Functional Programming
 - Data Prallelism
 - Lambda Architecture
 - Event-Driven Architecture
