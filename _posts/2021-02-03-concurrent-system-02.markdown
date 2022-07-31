@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Concurrent Systems: 02 "
+title: "Concurrent Systems: Threads & Process "
 date: 2021-02-03 13:01:20 +0300
 description: Threads & Processes. # Add post description (optional)
 img:  software.jpg # Add image post (optional)(optional)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Concurrent Systems: 01 "
+title: "Concurrent Systems: Basics "
 date: 2021-02-03 13:01:20 +0300
 description: Concurrent System. # Add post description (optional)
 img:  software.jpg # Add image post (optional)(optional)

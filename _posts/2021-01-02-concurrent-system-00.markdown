@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Concurrent Systems: 06 "
-date: 2021-03-12 13:01:20 +0300
+title: "Types of Concurrency Models "
+date: 2021-01-02 13:01:20 +0300
 description: Types of Concurrency Models # Add post description (optional)
 img:  software.jpg # Add image post (optional)(optional)
 categories: [concurrent-systems]
@@ -37,6 +37,6 @@ All the models which exists till date sort of tries to eliminate one of (shared/
 - Actors
 - Communicating Sequential Process
 - Software Transaction Memory
-- Data Prallelism
-- Lambda Architecture
-- Event-Driven Architecture
+- Data Parallelism
+- Lambda Approach
+- Event-based System

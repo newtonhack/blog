@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Concurrent Systems: 07 "
+title: "Concurrency Models: Threads & Locks "
 date: 2021-03-12 13:01:20 +0300
 description: "Model 1: Threads & Locks" # Add post description (optional)
 img:  software.jpg # Add image post (optional)(optional)

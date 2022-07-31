@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Concurrent Systems: 08 "
+title: "Concurrency Models: Atomics "
 date: 2021-03-12 13:01:20 +0300
 description: "Model 2: Atomics Condition Variables & Timeouts" # Add post description (optional)
 img:  software.jpg # Add image post (optional)(optional)

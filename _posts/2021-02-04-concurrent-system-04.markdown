@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Concurrent Systems: 04 "
+title: "Concurrent Systems: Fundamental differences "
 date: 2021-02-04 13:01:20 +0300
 description: Concurrency vs Parallism Blocking vs Non-blocking, Lock vs Lock-free # Add post description (optional)
 img:  software.jpg # Add image post (optional)(optional)
